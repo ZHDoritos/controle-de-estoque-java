@@ -1,2 +1,11 @@
 # controle-de-estoque-java
 Sistema de controle de java aplication
+
+Horus
+=====
+
+Software desenvolvido em Java jre6
+
+Banco de dados MySQL 5.0
+
+Impressora térmica Argox OS 214 Plus
