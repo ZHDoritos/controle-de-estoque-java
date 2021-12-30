@@ -1,5 +1,5 @@
 # controle-de-estoque-java
-Sistema de controle de java aplication
+Sistema de controle de estoque em java aplication
 
 Horus
 =====
